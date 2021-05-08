@@ -1,2 +1,2 @@
 # LambdaCallExamples
-LambdaCallExamples
+Lambda Call Examples
